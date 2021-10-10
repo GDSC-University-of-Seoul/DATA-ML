@@ -20,7 +20,7 @@
 [김민중](https://github.com/solbat)
 |No|프로젝트 주제|기간|
 |---|---|---|
-|1|Fill Here!!|Fill Here!!|
+|1|연관단어 추출 및 네트워크 생성|21.10 ~ 21.12|
 
 [오원진](https://github.com/keepproceeding)
 |No|프로젝트 주제|기간|
