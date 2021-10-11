@@ -25,7 +25,7 @@
 [오원진](https://github.com/keepproceeding)
 |No|프로젝트 주제|기간|
 |---|---|---|
-|1|Fill Here!!|Fill Here!!|
+|1|MZ세대 소비 트렌드 분석을 통한 제로페이 마케팅|21.10 ~ 21.11|
 
 [황보겸](https://github.com/aerojohn1223)
 |No|프로젝트 주제|기간|
