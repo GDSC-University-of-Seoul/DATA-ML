@@ -10,7 +10,7 @@
 [김수연](https://github.com/happiesoo41)
 |No|프로젝트 주제|기간|
 |---|---|---|
-|1|Fill Here!!|Fill Here!!|
+|1|딥러닝을 이용한 OOTD 추천 서비스|21.10~22.01|
 
 [김민서](https://github.com/ms9648)
 |No|프로젝트 주제|기간|
