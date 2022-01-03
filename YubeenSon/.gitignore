@@ -1,3 +1,6 @@
-/data
-/submission
-/.venv
+주식종가/data
+주식종가/submission
+주식종가/.venv
+
+detect_starfish/star
+detect_starfish/data
